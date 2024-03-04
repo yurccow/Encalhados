@@ -1,4 +1,6 @@
-
+:root{
+    --fundo: #DBDBDB;
+}
 body{ 
     background-color: var(--fundo);
 }
