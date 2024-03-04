@@ -1,3 +1,7 @@
 body{ 
-    background-color: #DBDBDB;
+    background-color: var(--fundo);
+}
+
+:root{
+    --fundo:#DBDBDB
 }
