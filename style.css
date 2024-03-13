@@ -2,7 +2,7 @@
     --fundo: #E13B6D;
 }
 body{ 
-    background-color: #E13B6D(--fundo);
+    background-color: var(--fundo);
 }
 
 img{
