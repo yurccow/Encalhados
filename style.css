@@ -33,3 +33,7 @@ header{
     background-color: #DBDBDB;
     
 }
+
+.equipe{
+    display: grid;
+}
