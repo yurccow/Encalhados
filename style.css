@@ -3,10 +3,6 @@
 }
 body{ 
     background-color: var(--fundo);
-        font-family: "Ingrid Darling", cursive;
-        font-weight: 400;
-        font-style: normal;
-      
 }
 
 img{
@@ -18,6 +14,11 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    font-family: "Ingrid Darling", cursive;
+    font-weight: 400;
+    font-style: normal;
+  
+
 }
 
 /*NOSSO SITE */
@@ -31,5 +32,5 @@ header{
     margin: 20px 0 0 0;
     padding: 20px 0;
     background-color: #DBDBDB;
-
+    
 }
