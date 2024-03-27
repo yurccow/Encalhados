@@ -3,6 +3,12 @@
 }
 body{ 
     background-color: var(--fundo);
+    .ingrid-darling-regular {
+        font-family: "Ingrid Darling", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
 }
 
 img{
@@ -27,5 +33,5 @@ header{
     margin: 20px 0 0 0;
     padding: 20px 0;
     background-color: #DBDBDB;
-    
+
 }
