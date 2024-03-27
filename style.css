@@ -3,11 +3,9 @@
 }
 body{ 
     background-color: var(--fundo);
-    .ingrid-darling-regular {
         font-family: "Ingrid Darling", cursive;
         font-weight: 400;
         font-style: normal;
-      }
       
 }
 
