@@ -1,5 +1,5 @@
 :root{
-    --fundo: #E13B6D;
+    --fundo: #e0e0e0;
 }
 body{ 
     background-color: var(--fundo);
@@ -30,7 +30,7 @@ header{
 .sedutores{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    text-align: center;  
+    text-align: center;
 }
 
 .equipe{
