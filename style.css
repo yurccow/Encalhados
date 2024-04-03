@@ -27,12 +27,10 @@ header{
 }
 
 .sedutores{
-    display: flex;
+    display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     text-align: center;
     background-color: aliceblue;
-    width: 30%;
-    
 }
 
 .equipe{
