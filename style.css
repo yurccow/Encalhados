@@ -17,6 +17,7 @@ header{
     font-family: "Ingrid Darling", cursive;
     font-weight: 400;
     font-style: normal;
+    background-color: #E13B6D;
   
 }
 
@@ -29,8 +30,7 @@ header{
 .sedutores{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
-    text-align: center;
-    background-color: aliceblue;  
+    text-align: center;  
 }
 
 .equipe{
