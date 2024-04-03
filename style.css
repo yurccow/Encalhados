@@ -32,6 +32,9 @@ header{
     grid-template-columns: 25% 25% 25% 25%;
     text-align: center;
 }
+#lebron{
+    width: 30%;
+}
 
 .equipe{
     display: grid;
