@@ -30,6 +30,7 @@ header{
     display: flex;
     grid-template-columns: 25% 25% 25% 25%;
     text-align: center;
+    background-color: aliceblue;
     
 }
 
