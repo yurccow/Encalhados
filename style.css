@@ -51,6 +51,8 @@ header{
     grid-template-columns: 33% 33% 33%;
     text-align: center;
     background-color: #E13B6D;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .foto-equipe{
