@@ -1,5 +1,6 @@
 :root{
     --fundo: #DBDBDB;
+    --fundo2:#E13B6D;
 }
 body{ 
     background-color: var(--fundo);
@@ -16,7 +17,7 @@ header{
     font-family: "Ingrid Darling", cursive;
     font-weight: 400;
     font-style: normal;
-    background-color: #E13B6D;
+    background-color: var(--fundo2);
   
 }
 
@@ -34,7 +35,8 @@ header{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
     text-align: center;
-    background-color: #DBDBDB;
+    background-color: var(--fundo);
+    margin: 15px 0;
 }
 
 .foto-sedutores{
@@ -49,5 +51,6 @@ header{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    background-color: #E13B6D;
+    background-color: var(--fundo2);
+    padding: 15px 0;
 }
