@@ -27,9 +27,10 @@ header{
 
 /*NOSSO SITE */
 
+
 .sedutores{
     display: grid;
-    grid-template-columns: 33.33% 33.33% 33.33%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
     text-align: center;
     background-color: var(--fundo);
     margin: 40px 0;
