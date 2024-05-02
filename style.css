@@ -29,7 +29,7 @@ header{
 
 .sedutores{
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 33.33% 33.33% 33.33%;
     text-align: center;
     background-color: var(--fundo);
     margin: 40px 0;
