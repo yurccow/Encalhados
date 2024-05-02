@@ -11,8 +11,8 @@ img{
 }
 
 header{
-    display: flex;
-    align-items: start;
+    display: grid;
+    align-items: center;
     justify-content: space-around;
     font-family: "Ingrid Darling", cursive;
     font-weight: 400;
