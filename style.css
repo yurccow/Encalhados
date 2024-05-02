@@ -10,7 +10,7 @@ img{
     width: 10%;
 }
 
-header{
+#header{
     display: flex;
     align-items: center;
     justify-content: space-around;
