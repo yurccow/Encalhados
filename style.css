@@ -27,10 +27,6 @@ header{
 
 /*NOSSO SITE */
 
-#barcoa{
-    width: 50%;
-}
-
 .sedutores{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
