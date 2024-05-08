@@ -11,14 +11,15 @@ img{
 }
 
 header{
-    display: flex;
+    display: grid;
     align-items: center;
     justify-content: space-around;
     font-family: "Ingrid Darling", cursive;
     font-weight: 400;
     font-style: normal;
     background-color: var(--fundo2);
-  
+    grid-template-columns: 20% 60% 20%;
+    text-align: center;
 }
 
 .titulo{
