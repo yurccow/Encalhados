@@ -22,6 +22,10 @@ header{
     text-align: center;
 }
 
+.barco{
+    width: 55%;
+}
+
 .titulo{
         font-size: 80px;
 }
@@ -52,3 +56,4 @@ header{
     background-color: var(--fundo2);
     padding: 15px 0;
 }
+
